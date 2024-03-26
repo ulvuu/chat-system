@@ -1,7 +1,7 @@
 {
-  "name": "electron-chat-app-demo",
+  "name": "chatsystem",
   "version": "1.0.0",
-  "description": "Electron Chat App Demo",
+  "description": "Chat system beta",
   "main": "index.js",
   "scripts": {
     "test": "",
@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/demian85/electron-chat-app-demo.git"
+    "url": "git+https://github.com/ulvuu/chat-system.git"
   },
-  "author": "Demián Rodriguez",
+  "author": "ulvu",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.16.0",
